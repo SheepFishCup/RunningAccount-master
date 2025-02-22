@@ -4,7 +4,7 @@
 ### 项目描述:          
 简单的企业财务流水管理系统; 前后端分离开发, 通过Restful风格来进行数据交互;  
 前端为 Vue + Element-UI 构建的单页面应用SPA;  
-后端为 SpringBoot + MyBatis-plus, 权限认证管理基于RBAC模型, 使用Shiro框架实现;  
+后端为 SpringBoot + MyBatis-plus 
 
 功能上主要有 明细模块, 统计模块, Excel模块, 权限认证模块
 
